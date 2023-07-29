@@ -1,0 +1,27 @@
+Add Component: Footprint Not Found RESC1005X06N
+Add Component: Footprint Not Found RESC1005X06N
+Added Component: Designator=TP9(PCBComponent_1)
+Added Component: Designator=TP10(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin PO1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Change Net Name : Old Net Name=+BATT New Net Name=VBAT
+Add Class Member: Failed to add class member : Component * PAD_LARGE
+Add Class Member: Failed to add class member : Component PO1 PO2
+Add Class Member: Failed to add class member : Component R1 Res3
+Add Class Member: Failed to add class member : Component R2 Res3
+Added Member To Class: ClassName=ESC Member=Component TP9 Component_1
+Added Member To Class: ClassName=ESC Member=Component TP10 Component_1

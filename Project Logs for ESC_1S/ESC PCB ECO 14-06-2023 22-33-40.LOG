@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=TP8 Old Footprint=PCBComponent_1 New Footprint=PAD_SQUARE
+Change Component Footprint: Designator=TP9 Old Footprint=PCBComponent_1 New Footprint=PAD_SQUARE
+Added Member To Class: ClassName=ESC Member=Component TP3 TEST_PAD

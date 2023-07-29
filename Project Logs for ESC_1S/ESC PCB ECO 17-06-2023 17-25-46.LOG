@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=A_HIGH Pin=Q2-1
+Removed Pin From Net: NetName=VBAT Pin=Q2-2
+Removed Pin From Net: NetName=PHASE A Pin=Q2-3
+Removed Pin From Net: NetName=B_HIGH Pin=Q4-1
+Removed Pin From Net: NetName=VBAT Pin=Q4-2
+Removed Pin From Net: NetName=PHASE B Pin=Q4-3
+Removed Pin From Net: NetName=C_HIGH Pin=Q6-1
+Removed Pin From Net: NetName=VBAT Pin=Q6-2
+Removed Pin From Net: NetName=PHASE C Pin=Q6-3
+Removed Member From Class: ClassName=ESC Member=Q2
+Removed Member From Class: ClassName=ESC Member=Q4
+Removed Member From Class: ClassName=ESC Member=Q6
+Added Component: Designator=Q?(SOT-23-3L_AOS-L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT-23-3L_AOS-L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT-23-3L_AOS-L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ao3401a/alpha-and-omega-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AO3401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A_HIGH Pin=Q?-1
+Added Pin To Net: NetName=B_HIGH Pin=Q?-1
+Added Pin To Net: NetName=C_HIGH Pin=Q?-1
+Added Pin To Net: NetName=PHASE A Pin=Q?-2
+Added Pin To Net: NetName=PHASE B Pin=Q?-2
+Added Pin To Net: NetName=PHASE C Pin=Q?-2
+Added Pin To Net: NetName=VBAT Pin=Q?-3
+Added Pin To Net: NetName=VBAT Pin=Q?-3
+Added Pin To Net: NetName=VBAT Pin=Q?-3
+Added Member To Class: ClassName=ESC Member=Component Q? AO3401A
+Added Member To Class: ClassName=ESC Member=Component Q? AO3401A
+Added Member To Class: ClassName=ESC Member=Component Q? AO3401A

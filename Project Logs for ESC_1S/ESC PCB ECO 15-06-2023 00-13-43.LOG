@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CPWM Pin=IC1-9
+Removed Pin From Net: NetName=BCOM Pin=IC1-10
+Removed Pin From Net: NetName=BPWM Pin=IC1-11
+Removed Pin From Net: NetName=APWM Pin=IC1-19
+Added Pin To Net: NetName=APWM Pin=IC1-9
+Added Pin To Net: NetName=BPWM Pin=IC1-10
+Added Pin To Net: NetName=CPWM Pin=IC1-11
+Added Member To Class: ClassName=ESC Member=Component C2 GRM21BR60G476ME15L

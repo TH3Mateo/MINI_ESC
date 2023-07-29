@@ -1,0 +1,13 @@
+Remove Pin=TP1-1 From Net=VCC3
+Change Component Comment: Designator=C1 Old Comment=GRM21BR60G476ME15L New Comment=47uF
+Change Component Comment: Designator=C2 Old Comment=GRM21BR60G476ME15L New Comment=47uF
+Change Component Comment: Designator=C3 Old Comment=GRM21BR60G476ME15L New Comment=47uF
+Change Component Comment: Designator=C4 Old Comment=GRM21BR60G476ME15L New Comment=47uF
+Change Component Comment: Designator=R3 Old Comment=Res3 New Comment==VALUE
+Change Component Comment: Designator=TP1 Old Comment=TEST_PAD New Comment=Component_1
+Change Component Comment: Designator=TP2 Old Comment=TEST_PAD New Comment=Component_1
+Change Component Comment: Designator=TP3 Old Comment=TEST_PAD New Comment=Component_1
+Change Component Comment: Designator=TP4 Old Comment=TEST_PAD New Comment=Component_1
+Change Component Comment: Designator=TP5 Old Comment=TEST_PAD New Comment=Component_1
+Change Component Comment: Designator=C5 Old Comment=VJ0603Y104KNXAO New Comment=0.1uF
+Change Component Comment: Designator=C6 Old Comment=VJ0603Y104KNXAO New Comment=0.1uF

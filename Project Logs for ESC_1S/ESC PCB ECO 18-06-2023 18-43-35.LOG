@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=A_HIGH Pin=IC1-9
+Removed Pin From Net: NetName=B_HIGH Pin=IC1-10
+Removed Pin From Net: NetName=C_HIGH Pin=IC1-11
+Removed Pin From Net: NetName=A_LOW Pin=IC1-17
+Removed Pin From Net: NetName=B_LOW Pin=IC1-18
+Removed Pin From Net: NetName=C_LOW Pin=IC1-19
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Added Pin To Net: NetName=A_LOW Pin=IC1-9
+Added Pin To Net: NetName=B_LOW Pin=IC1-10
+Added Pin To Net: NetName=C_LOW Pin=IC1-11
+Added Pin To Net: NetName=A_HIGH Pin=IC1-17
+Added Pin To Net: NetName=B_HIGH Pin=IC1-18
+Added Pin To Net: NetName=C_HIGH Pin=IC1-19
+Added Member To Class: ClassName=ESC Member=Component Q1 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q2 AO3401A
+Added Member To Class: ClassName=ESC Member=Component Q4 AO3401A

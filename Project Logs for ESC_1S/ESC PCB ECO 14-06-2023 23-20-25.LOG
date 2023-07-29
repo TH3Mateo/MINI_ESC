@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=MUX_B Pin=TEST_PAD-1
+Removed Pin From Net: NetName=MUX_A Pin=TEST_PAD-2
+Removed Pin From Net: NetName=MUX_C Pin=TEST_PAD-13
+Removed Pin From Net: NetName=COM Pin=TEST_PAD-14
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment==VALUE
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=AO3400
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=EFM8BB21F16G-B-QFN20
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=GRM21BR60G476ME15L
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=GRM21BR60G476ME15L
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=GRM21BR60G476ME15L
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=GRM21BR60G476ME15L
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=Res3
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=Res3
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=Res3
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=VJ0603Y104KNXAO
+Change Component Comment : Designator=TEST_PAD Old Comment=TEST_PAD New Comment=VJ0603Y104KNXAO
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C1
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C2
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C3
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C4
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C5
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=C6
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=IC1
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q1
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q2
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q3
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q4
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q5
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=Q6
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R1
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R2
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R3
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R4
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R5
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R6
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R7
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R8
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R9
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R10
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R11
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=R12
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP1
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP2
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP3
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP4
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP5
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP6
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP7
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP8
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP9
+Change Component Designator: OldDesignator=TEST_PAD NewDesignator=TP10
+Added Pin To Net: NetName=MUX_A Pin=IC1-13
+Added Pin To Net: NetName=MUX_B Pin=IC1-14
+Added Pin To Net: NetName=MUX_C Pin=IC1-15
+Added Member To Class: ClassName=ESC Member=Component C1 GRM21BR60G476ME15L
+Added Member To Class: ClassName=ESC Member=Component C3 GRM21BR60G476ME15L
+Added Member To Class: ClassName=ESC Member=Component C4 GRM21BR60G476ME15L
+Added Member To Class: ClassName=ESC Member=Component C5 VJ0603Y104KNXAO
+Added Member To Class: ClassName=ESC Member=Component C6 VJ0603Y104KNXAO
+Added Member To Class: ClassName=ESC Member=Component IC1 EFM8BB21F16G-B-QFN20
+Added Member To Class: ClassName=ESC Member=Component Q1 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q2 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q3 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q4 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q5 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q6 AO3400
+Added Member To Class: ClassName=ESC Member=Component R1 Res3
+Added Member To Class: ClassName=ESC Member=Component R2 Res3
+Added Member To Class: ClassName=ESC Member=Component R3 Res3
+Added Member To Class: ClassName=ESC Member=Component R4 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R5 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R6 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R7 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R8 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R9 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R10 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R11 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R12 =VALUE
+Added Member To Class: ClassName=ESC Member=Component TP1 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP2 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP3 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP4 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP5 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP6 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP7 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP8 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP9 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP10 TEST_PAD

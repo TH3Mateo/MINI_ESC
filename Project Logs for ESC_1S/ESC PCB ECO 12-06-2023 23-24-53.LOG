@@ -1,0 +1,59 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Footprint: Designator=Q2 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Footprint: Designator=Q3 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Footprint: Designator=Q4 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Footprint: Designator=Q5 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Footprint: Designator=Q6 Old Footprint=SOT95P280X125-3N New Footprint=SOT-23-3L_AOS-L
+Change Component Comment : Designator=R3 Old Comment==VALUE New Comment=1K
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT95P280X125-3N"; UniqueID = "\TOEJOPHJ" ("\TOEJOPHJ")
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT95P280X125-3N"; UniqueID = "\UVXDSXMP" ("\UVXDSXMP")
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT95P280X125-3N"; UniqueID = "\GJHKKCRC" ("\GJHKKCRC")
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT95P280X125-3N"; UniqueID = "\JVSTAGKL" ("\JVSTAGKL")
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "SOT95P280X125-3N"; UniqueID = "\FAAJTKBL" ("\FAAJTKBL")
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "SOT95P280X125-3N"; UniqueID = "\CLGUKXPN" ("\CLGUKXPN")
+Added Component: Designator=R1(SMD-0603-RES)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SMD-0603-RES)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3 Pin=R1-1
+Added Pin To Net: NetName=C2CK Pin=R1-2
+Added Pin To Net: NetName=VCC3 Pin=R2-1
+Added Pin To Net: NetName=C2D Pin=R2-2
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Added Member To Class: ClassName=ESC Member=Component Q1 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q2 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q3 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q4 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q5 AO3400
+Added Member To Class: ClassName=ESC Member=Component Q6 AO3400
+Added Member To Class: ClassName=ESC Member=Component R1 Res3
+Added Member To Class: ClassName=ESC Member=Component R2 Res3
+Add Class Member: Failed to add class member : Component R4 =VALUE
+Add Class Member: Failed to add class member : Component R5 =VALUE
+Add Class Member: Failed to add class member : Component R6 =VALUE
+Add Class Member: Failed to add class member : Component R7 =VALUE
+Add Class Member: Failed to add class member : Component R8 =VALUE
+Add Class Member: Failed to add class member : Component R9 =VALUE
+Add Class Member: Failed to add class member : Component R10 =VALUE
+Add Class Member: Failed to add class member : Component R11 =VALUE
+Add Class Member: Failed to add class member : Component R12 =VALUE
+Add Class Member: Failed to add class member : Component TP1 Component_1
+Add Class Member: Failed to add class member : Component TP2 Component_1
+Add Class Member: Failed to add class member : Component TP3 Component_1
+Add Class Member: Failed to add class member : Component TP4 Component_1
+Add Class Member: Failed to add class member : Component TP5 Component_1

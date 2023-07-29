@@ -1,0 +1,12 @@
+Change Component Comment : Designator=J5 Old Comment=TMM-101-01-T-S New Comment=PHASE A
+Change Component Comment : Designator=J7 Old Comment=TMM-101-01-T-S New Comment=PHASE B
+Change Component Comment : Designator=J8 Old Comment=TMM-101-01-T-S New Comment=PHASE C
+Added Member To Class: ClassName=ESC Member=Component R4 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R5 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R6 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R7 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R8 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R9 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R10 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R11 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R12 =VALUE

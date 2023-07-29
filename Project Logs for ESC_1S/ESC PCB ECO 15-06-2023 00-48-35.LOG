@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RC-IN Pin=IC1-16
+Added Pin To Net: NetName=COM Pin=IC1-16
+Added Pin To Net: NetName=RC-IN Pin=IC1-20

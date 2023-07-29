@@ -1,0 +1,33 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J2 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J4 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J5 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J6 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J7 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component DesignItemId : Designator=J8 Old DesignItemId=Test pad New DesignItemId=TEST_PAD
+Change Component Comment : Designator=J1 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J2 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J3 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J4 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J5 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J6 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J7 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Comment : Designator=J8 Old Comment=Test pad New Comment=TEST_PAD
+Change Component Library : Designator=J1 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J2 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J3 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J4 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J5 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J6 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J7 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Change Component Library : Designator=J8 Old Library=Schlib1.SchLib New Library=solderpad.SchLib
+Add Pin To Net: Unknown Pin: Pin J1-TP?
+Add Pin To Net: Unknown Pin: Pin J2-TP?
+Add Pin To Net: Unknown Pin: Pin J3-TP?
+Add Pin To Net: Unknown Pin: Pin J5-TP?
+Add Pin To Net: Unknown Pin: Pin J6-TP?
+Add Pin To Net: Unknown Pin: Pin J7-TP?
+Add Pin To Net: Unknown Pin: Pin J8-TP?
+Added Pin To Net: NetName=NetJ4_TP? Pin=R3-2
+Added Net: Name=NetJ4_TP?

@@ -1,0 +1,36 @@
+Added Component: Designator=R4(SMD-0603-RES)
+Added Component: Designator=R5(SMD-0603-RES)
+Added Component: Designator=R6(SMD-0603-RES)
+Added Component: Designator=R7(SMD-0603-RES)
+Added Component: Designator=R8(SMD-0603-RES)
+Added Component: Designator=R9(SMD-0603-RES)
+Added Component: Designator=R10(SMD-0603-RES)
+Added Component: Designator=R11(SMD-0603-RES)
+Added Component: Designator=R12(SMD-0603-RES)
+Added Pin To Net: NetName=NetJ5_1 Pin=R4-1
+Added Pin To Net: NetName=MUX_A Pin=R4-2
+Added Pin To Net: NetName=NetJ7_1 Pin=R5-1
+Added Pin To Net: NetName=MUX_B Pin=R5-2
+Added Pin To Net: NetName=NetJ8_1 Pin=R6-1
+Added Pin To Net: NetName=MUX_C Pin=R6-2
+Added Pin To Net: NetName=MUX_A Pin=R7-1
+Added Pin To Net: NetName=COM Pin=R7-2
+Added Pin To Net: NetName=MUX_B Pin=R8-1
+Added Pin To Net: NetName=COM Pin=R8-2
+Added Pin To Net: NetName=MUX_C Pin=R9-1
+Added Pin To Net: NetName=COM Pin=R9-2
+Added Pin To Net: NetName=MUX_A Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=MUX_B Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=MUX_C Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Member To Class: ClassName=ESC Member=Component R4 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R5 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R6 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R7 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R8 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R9 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R10 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R11 =VALUE
+Added Member To Class: ClassName=ESC Member=Component R12 =VALUE

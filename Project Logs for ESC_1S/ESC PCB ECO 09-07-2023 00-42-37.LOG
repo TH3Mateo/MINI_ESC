@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=470R
+Change Component Comment : Designator=R14 Old Comment=1K New Comment=470R
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=470R
+Change component parameters: Designator = "R13" ("R13"); Footprint = "SMD-0603-RES"; UniqueID = "\RYOQVNHS" ("\RYOQVNHS")
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "SMD-0603-RES"; UniqueID = "\PAPSKOYR" ("\PAPSKOYR")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "SMD-0603-RES"; UniqueID = "\XPSHTVXP" ("\XPSHTVXP")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESC Member=Component Q2 AO3401A
+Added Member To Class: ClassName=ESC Member=Component Q6 AO3401A

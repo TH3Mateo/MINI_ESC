@@ -1,0 +1,33 @@
+Update Managed Component C1 From CMP-2007-03226-2[47uF] To CMP-2007-03226-2[GRM21BR60G476ME15L] in ESC.SchDoc
+Update Managed Component C2 From CMP-2007-03226-2[47uF] To CMP-2007-03226-2[GRM21BR60G476ME15L] in ESC.SchDoc
+Update Managed Component C3 From CMP-2007-03226-2[47uF] To CMP-2007-03226-2[GRM21BR60G476ME15L] in ESC.SchDoc
+Update Managed Component C4 From CMP-2007-03226-2[47uF] To CMP-2007-03226-2[GRM21BR60G476ME15L] in ESC.SchDoc
+Update Managed Component C5 From CMP-1035-02588-2[0.1uF] To CMP-1035-02588-2[VJ0603Y104KNXAO] in ESC.SchDoc
+Update Managed Component C6 From CMP-1035-02588-2[0.1uF] To CMP-1035-02588-2[VJ0603Y104KNXAO] in ESC.SchDoc
+Replace Part IC1 EFM8BB21F16G-B-QFN20 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with EFM8BB21F16G-B-QFN20 from EFM8BB21F16G-B-QFN20.SchLib
+Replace Part Q1 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part Q2 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part Q3 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part Q4 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part Q5 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part Q6 AO3400 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with AO3400 from ESC 1s mini.SchLib
+Replace Part R3 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R4 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R5 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R6 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R7 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R8 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R9 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R10 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R11 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part R12 RESISTOR in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with RESISTOR from resistors_m.SchLib
+Replace Part TP1 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP2 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP3 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP4 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP5 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP6 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP7 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP8 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP9 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib
+Replace Part TP10 Component_1 in C:\Users\M\Desktop\Schematics\ESC_1S\ESC.SchDoc with Component_1 from Pad.SchLib

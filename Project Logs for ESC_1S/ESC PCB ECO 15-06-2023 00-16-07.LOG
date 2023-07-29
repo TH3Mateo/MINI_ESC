@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CCOM Pin=IC1-8
+Removed Pin From Net: NetName=ACOM Pin=IC1-20
+Added Pin To Net: NetName=ACOM Pin=IC1-17
+Added Pin To Net: NetName=BCOM Pin=IC1-18
+Added Pin To Net: NetName=CCOM Pin=IC1-19

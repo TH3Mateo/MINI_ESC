@@ -1,0 +1,39 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J2 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J3 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J4 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J5 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J6 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J7 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component DesignItemId : Designator=J8 Old DesignItemId=TEST_PAD New DesignItemId=Test pad
+Change Component Comment : Designator=J1 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J2 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J3 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J4 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J5 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J6 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J7 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Comment : Designator=J8 Old Comment=TEST_PAD New Comment=Test pad
+Change Component Library : Designator=J1 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J2 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J3 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J4 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J5 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J6 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J7 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Library : Designator=J8 Old Library=PAD.SchLib New Library=Schlib1.SchLib
+Change Component Kind : Designator=J6 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J5 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J8 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J7 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J2 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J1 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J4 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J3 Old Kind=Net Tie New Kind=Standard
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J7-1
+Add Pin To Net: Unknown Pin: Pin J8-1

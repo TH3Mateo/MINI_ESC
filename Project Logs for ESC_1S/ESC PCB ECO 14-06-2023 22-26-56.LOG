@@ -1,0 +1,26 @@
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Component: Designator=(PCBComponent_1)
+Added Pin To Net: NetName=C2CK Pin=-1
+Added Pin To Net: NetName=C2D Pin=-1
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=PHASE A Pin=-1
+Added Pin To Net: NetName=PHASE B Pin=-1
+Added Pin To Net: NetName=PHASE C Pin=-1
+Added Pin To Net: NetName=VCC3 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=R3-2
+Added Net: Name=Net_1
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component  TEST_PAD

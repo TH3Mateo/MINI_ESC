@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator= NewDesignator=TP1
+Change Component Designator: OldDesignator= NewDesignator=TP2
+Change Component Designator: OldDesignator= NewDesignator=TP3
+Change Component Designator: OldDesignator= NewDesignator=TP4
+Change Component Designator: OldDesignator= NewDesignator=TP5
+Change Component Designator: OldDesignator= NewDesignator=TP6
+Change Component Designator: OldDesignator= NewDesignator=TP7
+Change Component Designator: OldDesignator= NewDesignator=TP10
+Added Component: Designator=TP8(PCBComponent_1)
+Added Component: Designator=TP9(PCBComponent_1)
+Added Pin To Net: NetName=VBAT Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Change Net Name : Old Net Name=Net_1 New Net Name=NetR3_2
+Added Member To Class: ClassName=ESC Member=Component TP1 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP2 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP4 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP5 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP6 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP7 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP8 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP9 TEST_PAD
+Added Member To Class: ClassName=ESC Member=Component TP10 TEST_PAD

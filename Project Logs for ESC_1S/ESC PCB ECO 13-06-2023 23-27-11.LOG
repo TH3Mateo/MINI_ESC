@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J5 Old Footprint=PCBComponent_1 New Footprint=PAD_SQUARE
+Change Component Footprint: Designator=J7 Old Footprint=PCBComponent_1 New Footprint=PAD_SQUARE
+Change Component Footprint: Designator=J8 Old Footprint=PCBComponent_1 New Footprint=PAD_SQUARE
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Add Pin To Net: Unknown Pin: Pin J1-connection
+Add Pin To Net: Unknown Pin: Pin J2-connection
+Add Pin To Net: Unknown Pin: Pin J3-connection
+Add Pin To Net: Unknown Pin: Pin J4-connection
+Add Pin To Net: Unknown Pin: Pin J5-connection
+Add Pin To Net: Unknown Pin: Pin J6-connection
+Add Pin To Net: Unknown Pin: Pin J7-connection
+Add Pin To Net: Unknown Pin: Pin J8-connection

@@ -1,0 +1,4 @@
+Added Component: Designator=R9(SMD-0603-RES)
+Added Pin To Net: NetName=MUX_C Pin=R9-1
+Added Pin To Net: NetName=COM Pin=R9-2
+Added Member To Class: ClassName=ESC Member=Component R9 =VALUE

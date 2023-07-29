@@ -1,0 +1,250 @@
+Removed Pin From Net: NetName=PHASE A Pin=Q2-2
+Removed Pin From Net: NetName=VBAT Pin=Q2-3
+Removed Pin From Net: NetName=PHASE B Pin=Q4-2
+Removed Pin From Net: NetName=VBAT Pin=Q4-3
+Removed Pin From Net: NetName=PHASE C Pin=Q6-2
+Removed Pin From Net: NetName=VBAT Pin=Q6-3
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23-3L_AOS-L New Footprint=AO-SOT-23-3L_V
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23-3L_AOS-L New Footprint=AO-SOT-23-3L_V
+Change Component Footprint: Designator=Q6 Old Footprint=SOT-23-3L_AOS-L New Footprint=AO-SOT-23-3L_V
+Change Component Comment : Designator=Q2 Old Comment=AO3400 New Comment=AO3401A
+Change Component Comment : Designator=Q4 Old Comment=AO3400 New Comment=AO3401A
+Change Component Comment : Designator=Q6 Old Comment=AO3400 New Comment=AO3401A
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E4880C0C-78B9-4EF8-9661-D64A35F7776E Old RevisionGUID= New RevisionGUID=568CE6B9-0C9D-4FD1-885A-56DDBCD703A6
+Change Managed Component Library Link : Designator=Q4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E4880C0C-78B9-4EF8-9661-D64A35F7776E Old RevisionGUID= New RevisionGUID=568CE6B9-0C9D-4FD1-885A-56DDBCD703A6
+Change Managed Component Library Link : Designator=Q6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=E4880C0C-78B9-4EF8-9661-D64A35F7776E Old RevisionGUID= New RevisionGUID=568CE6B9-0C9D-4FD1-885A-56DDBCD703A6
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT-23-3L_AOS-L"; UniqueID = "\VGKFCPTO" ("\VGKFCPTO")
+Change component parameters (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT-23-3L_AOS-L"; UniqueID = "\CWOHENVC" ("\CWOHENVC")
+Change component parameters (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "SOT-23-3L_AOS-L"; UniqueID = "\JWYOUEFY" ("\JWYOUEFY")
+Change component parameters (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Added Component: Designator=D1(FP-SML-LX0603IW-TR-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "14mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "50mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "160°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D2(FP-SML-LX0603IW-TR-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "14mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "50mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "160°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FP-SML-LX0603IW-TR-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "14mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "50mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "160°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(SMD-0603-RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(SMD-0603-RES)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(SMD-0603-RES)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=Q2-2
+Added Pin To Net: NetName=PHASE A Pin=Q2-3
+Added Pin To Net: NetName=VBAT Pin=Q4-2
+Added Pin To Net: NetName=PHASE B Pin=Q4-3
+Added Pin To Net: NetName=VBAT Pin=Q6-2
+Added Pin To Net: NetName=PHASE C Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=A_HIGH Pin=D1-2
+Added Pin To Net: NetName=A_HIGH Pin=IC1-9
+Added Pin To Net: NetName=A_HIGH Pin=Q2-1
+Added Net: Name=A_HIGH
+Added Pin To Net: NetName=A_LOW Pin=IC1-17
+Added Pin To Net: NetName=A_LOW Pin=Q1-1
+Added Net: Name=A_LOW
+Added Pin To Net: NetName=B_HIGH Pin=D2-2
+Added Pin To Net: NetName=B_HIGH Pin=IC1-10
+Added Pin To Net: NetName=B_HIGH Pin=Q4-1
+Added Net: Name=B_HIGH
+Added Pin To Net: NetName=B_LOW Pin=IC1-18
+Added Pin To Net: NetName=B_LOW Pin=Q3-1
+Added Net: Name=B_LOW
+Added Pin To Net: NetName=C_HIGH Pin=D3-2
+Added Pin To Net: NetName=C_HIGH Pin=IC1-11
+Added Pin To Net: NetName=C_HIGH Pin=Q6-1
+Added Net: Name=C_HIGH
+Added Pin To Net: NetName=C_LOW Pin=IC1-19
+Added Pin To Net: NetName=C_LOW Pin=Q5-1
+Added Net: Name=C_LOW
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R13-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R14-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R15-2
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=ESC Member=Component D1 SML-LX0603IW-TR
+Added Member To Class: ClassName=ESC Member=Component D2 SML-LX0603IW-TR
+Added Member To Class: ClassName=ESC Member=Component D3 SML-LX0603IW-TR
+Added Member To Class: ClassName=ESC Member=Component R13 1K
+Added Member To Class: ClassName=ESC Member=Component R14 1K
+Added Member To Class: ClassName=ESC Member=Component R15 1K
